@@ -1,0 +1,15 @@
+digraph "/home/benmalef/Desktop/test/thesis_test"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_13e138d54eb8818da29c3992edef070a {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,dashed,", label="test", fontname="Helvetica", fontsize="10", URL="dir_13e138d54eb8818da29c3992edef070a.html"]
+  subgraph clusterdir_9a204d2e08c35c72dd1e448c806937cc {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_9a204d2e08c35c72dd1e448c806937cc.html"]
+    dir_9a204d2e08c35c72dd1e448c806937cc [shape=plaintext, label="thesis_test"];
+  dir_44f7e35446452c477b1eef800a223b69 [shape=box, label="MyFirstCalibrationApp", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_44f7e35446452c477b1eef800a223b69.html"];
+  }
+  }
+}
